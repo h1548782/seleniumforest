@@ -5,7 +5,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Data set](#data set)
+* [Data set](#data-set)
 * [Setup](#setup)
 * [Algorithm description](#algorithm-description)
 	* [Python Scripts](#python-scripts)
