@@ -5,6 +5,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Dataset](#dataset)
 * [Setup](#setup)
 * [Algorithm description](#algorithm-description)
 	* [Python Scripts](#python-scripts)
@@ -35,6 +36,10 @@ Project is created with:
 * Microsoft Azure - Digital Twin Platform
 
 * Microsoft Visual Studio Code IDE
+
+## Dataset
+The dataset (_right_arms_.csv_) used during the simulation can be accessed under the following link:
+https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-anomaly-detection
 
 	
 ## Setup
