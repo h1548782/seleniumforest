@@ -38,7 +38,7 @@ Project is created with:
 * Microsoft Visual Studio Code IDE
 
 ## Data set
-The data set (_right_arms_.csv) used during the simulation can be accessed under the following link:
+The data set (_right_arm_.csv) used during the simulation can be accessed under the following link:
 https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-anomaly-detection
 
 	
